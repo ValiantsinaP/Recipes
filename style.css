@@ -1,0 +1,66 @@
+body {
+    background-color: #FEF2F4;
+}
+
+.heading {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: solid;
+}
+
+.head {
+    background-color: #FCC8D1;
+}
+
+.headingtwo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+}
+
+.inputform {
+    background-color: #FEF2F4;
+}
+
+.instruction {
+    display: none;
+    max-width: 400px;
+}
+
+.visible {
+    display: block;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.position {
+    flex-direction: column;
+    margin: 10px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.newbutton {
+    background-color: #FCC8D1;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.item {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding: 10px;
+}
